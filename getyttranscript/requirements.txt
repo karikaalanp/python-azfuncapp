@@ -1,0 +1,4 @@
+azure-functions
+youtube-transcript-api
+selenium
+webdriver_manager
